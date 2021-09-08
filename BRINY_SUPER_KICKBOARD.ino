@@ -23,7 +23,7 @@ void go(int motorDir, int motorPow, int power, int dir){
 
 void loop() {
   if(Serial.available()){
-    str = Serial.readStringUntil("\n);
+    str = Serial.readStringUntil("\n");
     DeserializationError error = deserializeJson(doc, str);
 
     if (error){
