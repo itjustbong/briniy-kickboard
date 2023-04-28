@@ -1,4 +1,4 @@
-# briniy-kickboard
+# briny-kickboard
 
 ![캡처](https://user-images.githubusercontent.com/61009770/132203481-33785465-9057-41c4-a1d4-319509f7c167.JPG)
 ![캡처1](https://user-images.githubusercontent.com/61009770/132203491-50e1c1de-65a7-42a1-ad7e-6034ce8b29c8.JPG)
